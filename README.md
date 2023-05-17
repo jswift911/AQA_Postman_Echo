@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pnvlt8973xavqt0f?svg=true)](https://ci.appveyor.com/project/jswift911/aqa-postman-echo)

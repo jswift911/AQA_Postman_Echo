@@ -16,7 +16,7 @@ public class PostmanEchoTest {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("Данные не на латинице 22222"))
+                .body("data", equalTo("Данные не на латинице"))
         ;
     }
 }
